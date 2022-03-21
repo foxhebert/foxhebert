@@ -6,7 +6,7 @@
 
 ✨ I'm a C# Developer on my own.
 
-✨ I have over 02 years' experience as a web and starting on mobile developer, specializing in creating cross-platform mobile and web apps.
+✨ I have 02 years' experience as a web and starting on mobile developer, specializing in creating cross-platform mobile and web apps.
 
 ✨ Mostly these days I build with Javascript.
 
